@@ -1,2 +1,2 @@
 # waffles
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub).
+Collection of programming questions and my solutions. (C++)
